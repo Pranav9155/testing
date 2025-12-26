@@ -17,7 +17,7 @@ git branch --show-current
 to check the current route(origin - detail)
 git remote show origin
 
-
+.gitignore (file which contains which file you want to ignore while commiting) 
 
 
 
