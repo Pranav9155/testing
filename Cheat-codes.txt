@@ -1,0 +1,30 @@
+Starting:
+
+
+
+echo "# testing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Pranav9155/testing.git
+git push -u origin main
+
+
+To check the current directory:
+git branch --show-current
+
+to check the current route(origin - detail)
+git remote show origin
+
+.gitignore (file which contains which file you want to ignore while commiting) 
+
+
+
+
+
+
+
+
+
+
