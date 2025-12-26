@@ -11,6 +11,15 @@ git remote add origin https://github.com/Pranav9155/testing.git
 git push -u origin main
 
 
+To check the current directory:
+git branch --show-current
+
+to check the current route(origin - detail)
+git remote show origin
+
+
+
+
 
 
 
