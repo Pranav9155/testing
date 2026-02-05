@@ -1,0 +1,11 @@
+local (file) git add . 
+
+
+
+stack (jaha sare files ka reading hota hai)
+
+
+local file 
+
+
+
